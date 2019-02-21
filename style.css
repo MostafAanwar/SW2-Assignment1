@@ -1,0 +1,124 @@
+.poke2
+{
+	float:right;
+}
+.poke1
+{
+	float:left;
+}
+.fb-share-button
+{
+	text-decoration: none;
+    position: fixed;
+    bottom: 0px;
+    right: 285px;
+    height: 20px;
+	text-decoration: none;
+    height: 20px;
+    box-sizing: border-box;
+    padding: 1px 8px 1px 6px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: 100;
+	font-size:10px;
+    cursor: pointer;
+}
+.fb-share-button i
+{
+	position: relative;
+    top: 2px;
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background: transparent 0 0 no-repeat;
+    background-image: url(https://image.flaticon.com/icons/svg/145/145802.svg);
+}
+.fb-share-button .label {
+	
+    margin-left: 3px;
+    white-space: nowrap;
+}
+.btn 
+{
+	text-decoration: none;
+    position: fixed;
+    bottom: 0px;
+    right: 190px;
+    height: 20px;
+    box-sizing: border-box;
+    padding: 1px 8px 1px 6px;
+    background-color: #1b95e0;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: 100;
+	font-size:10px;
+    cursor: pointer;
+}
+.btn .label {
+	
+    margin-left: 3px;
+    white-space: nowrap;
+}
+.btn i {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background: transparent 0 0 no-repeat;
+	
+    background-image: url(https://image.flaticon.com/icons/svg/124/124021.svg);
+}
+.rfrsh
+{
+	background:blue;
+	border-color:red;
+	font-family: 'Press Start 2P', cursive;
+	position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+h1
+{
+	position:absolute;
+	top:50%;
+	left:50%;	
+	background: -webkit-linear-gradient(red, blue);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+p
+{
+	text-align:center;
+	background-color:red;
+	border-radius:5px;
+	border: 10px solid blue;
+}
+body
+{
+	font-family: 'Press Start 2P', cursive;
+	background: 
+  linear-gradient(
+    rgba(24%, 48%, 80%, 0.9),
+    rgba(24%, 48%, 80%, 0.9)
+  ), url("http://wallpapercave.com/wp/ZqCwNUM.jpg");
+}
+.winner
+{
+	position:absolute;
+    bottom:0px;
+    right:50%;
+    left:50%;
+    margin-left:-150px;
+	margin-right:-150px;
+	box-sizing: border-box;
+	padding: 30px;  
+	border: 10px solid blue;
+	position:absolute; 
+	text-align:center;
+	background: -webkit-linear-gradient(red, yellow);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	
+}
