@@ -39,6 +39,6 @@ There are 3 main apis used in this:
 
 
 - [x] Finish HTML/CSS/JS
-- [ ] Push my commits to GitHub.
-- [ ] Open a pull request.
+- [X] Push my commits to GitHub.
+- [X] Open a pull request.
 - [ ] deploy and make it a standalone webstite.
