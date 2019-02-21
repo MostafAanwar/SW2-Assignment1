@@ -24,11 +24,16 @@ There are 3 main apis used in this:
      
 2. Youtube API
     - This api is used to play the theme song of pokemon in the background(Arabic version).
-     
+    - Sometimes it doesn't play automatically right away when you open the page takes couple of seconds for the first time.
      
 3. Google Font API
     - This api of course is used to get the font in which all things are written in.
-
+    
+4. Facebook API
+    - This api is used to share a link of this repository on facebook.
+    
+5. Twitte API
+    - This api is used to tweet a link of this repository on twitter.
 
 `TaskList:`
 
