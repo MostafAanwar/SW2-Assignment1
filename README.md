@@ -38,7 +38,7 @@ There are 3 main apis used in this:
 `TaskList:`
 
 
-- [x] Finish HTML/CSS/JS
+- [] Finish HTML/CSS/JS
 - [X] Push my commits to GitHub.
 - [X] Open a pull request.
-- [ ] deploy and make it a standalone webstite.
+- [X] deploy and make it a standalone webstite.
