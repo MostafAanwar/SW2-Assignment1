@@ -37,7 +37,7 @@ There are 3 main apis used in this:
 
 `TaskList:`
 
-
+- [ ] Make user choose his pokemon to fight with.
 - [ ] Finish HTML/CSS/JS to make it more responsive
 - [X] Push my commits to GitHub.
 - [X] Open a pull request.
