@@ -22,7 +22,7 @@ There are 3 main apis used in this:
     - This api is used to grab all the needed pokemon information.
      
      
-2. Youtube API
+2. Youtube API (being fixed)
     - This api is used to play the theme song of pokemon in the background(Arabic version).
     - Sometimes it doesn't play automatically right away when you open the page takes couple of seconds for the first time.
      
@@ -32,13 +32,13 @@ There are 3 main apis used in this:
 4. Facebook API
     - This api is used to share a link of this repository on facebook.
     
-5. Twitte API
+5. Twitter API
     - This api is used to tweet a link of this repository on twitter.
 
 `TaskList:`
 
 
-- [ ] Finish HTML/CSS/JS
+- [ ] Finish HTML/CSS/JS to make it more responsive
 - [X] Push my commits to GitHub.
 - [X] Open a pull request.
 - [X] deploy and make it a standalone webstite.
