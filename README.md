@@ -41,4 +41,4 @@ There are 3 main apis used in this:
 - [ ] Finish HTML/CSS/JS to make it more responsive
 - [X] Push my commits to GitHub.
 - [X] Open a pull request.
-- [X] deploy and make it a standalone webstite.
+- [X] deploy and make it a standalone webstite. (https://mostafaanwar.github.io/pokemonduel/)
